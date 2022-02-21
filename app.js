@@ -27,7 +27,6 @@ app.post("/", function (req, res) {
         },
       },
     ],
-    update_existing: true,
   };
 
   const jsonData = JSON.stringify(data);
