@@ -1,5 +1,5 @@
 # newsletter-template
-A simple tamplate for a newsletter sign-up page.
+A simple template for a newsletter sign-up page.
 
 This app was built using : 
 1. Node.js
